@@ -6,11 +6,11 @@ alias sshpaul="ssh paul@162.243.68.235"
 alias sshdrexel="ssh drexelba@66.147.244.54"
 alias video="cd /Users/MrPaulPhan/Development/Laravel-Subscription"
 alias videoGo="php artisan serve --port=4000"
-alias msk="cd ~/Development/dataproducts-ml"
+alias msk="cd ~/Development/msk-portal"
 
 # Bash
 alias zshconfig="atom ~/.zshrc"
-alias ohmyzsh="atom ~/.oh-my-zsh"
+alias ohmyzsh="open ~/.oh-my-zsh"
 alias zshfunction="atom ~/.oh-my-zsh/custom/phan.zsh"
 
 pd() {
