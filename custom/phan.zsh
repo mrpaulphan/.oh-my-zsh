@@ -7,6 +7,7 @@ alias sshdrexel="ssh drexelba@66.147.244.54"
 alias video="cd /Users/MrPaulPhan/Development/Laravel-Subscription"
 alias videoGo="php artisan serve --port=4000"
 alias msk="cd ~/Development/msk-portal"
+alias inet="cd ~/Development/ineteconomics-org"
 
 # Bash
 alias zshconfig="atom ~/.zshrc"
